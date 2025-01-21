@@ -1,0 +1,14 @@
+{
+  "loc_desc": {
+    "config": [
+      "<p>W&auml;hle einen Helden, f&uuml;r dessen Scharfsinn ein",
+      "ebenbürtiges Abenteuer erstellt werden soll.",
+      "Durch die Wahl des Helden legst du Schwierigkeit und",
+      "Komplexit&auml;t der R&auml;tsel fest.</p>",
+      "<ul><li>W&auml;hle",
+      "<a href=\"javascript:init_game(4,3,20)\">Dragonet</a>,",
+      "den Hofnarren, f&uuml;r ein sehr leichtes Spiel.</li>",
+      "<li>W&auml;"
+    ]
+  }
+}
