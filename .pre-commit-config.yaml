@@ -1,0 +1,17 @@
+repos:
+-   repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v5.0.0
+    hooks:
+    -   id: check-json
+    -   id: check-yaml
+    -   id: end-of-file-fixer
+    -   id: trailing-whitespace
+    -   id: check-illegal-windows-names
+-   repo: https://github.com/pre-commit/mirrors-csslint
+    rev: 'v1.0.5'
+    hooks:
+    -   id: csslint
+-   repo: https://github.com/standard/standard
+    rev: 'v17.1.2'
+    hooks:
+      - id: standard
